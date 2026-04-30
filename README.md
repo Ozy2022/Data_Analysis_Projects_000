@@ -1,4 +1,4 @@
-### 📈 COVID-19 Data Analysis Project & Real Estate dataset
+### 📈 COVID-19 Data Analysis Project & Real Estate datasets & Movie Portfolio Project dataset
 
 *End-to-end data analysis using SQL, Tableau, and Python*
 
